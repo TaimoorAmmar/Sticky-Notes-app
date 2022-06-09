@@ -1,25 +1,21 @@
 # notes-app
 <h2> Overview </h2>
-<p>A simple application for writing notes. The interface is designed similar to sticky notes. </p>
-<p>Users can add, edit and delete notes. The notes are stored in browser's local storage so they will not be removed on page refresh.</p>
+<p>A simple application for generating a QR code from random text, number or URL. </p>
 
 <h2> Technologies used </h2>
 HTML, CSS, JavaScript
   
 <h2> Screenshots </h2>
 
-![image](https://user-images.githubusercontent.com/101567902/172842973-b18efe08-571c-45fb-8144-9dd81b7df001.png)
+![image](https://user-images.githubusercontent.com/101567902/172854913-6b7b9966-e6b0-4912-b549-8e6f867b8dd3.png)
 
-![image](https://user-images.githubusercontent.com/101567902/172842860-8f87377a-c6d0-45d6-86a3-9301dcdebbcc.png)
+![image](https://user-images.githubusercontent.com/101567902/172855460-361198c8-08c1-4347-8250-37e619bca54e.png)
 
-![image](https://user-images.githubusercontent.com/101567902/172843281-47558ef9-c0df-43b0-aa5f-493a8fe7a3dc.png)
+![image](https://user-images.githubusercontent.com/101567902/172855544-5ff6794a-392f-4070-a25c-70f760556b89.png)
 
-![image](https://user-images.githubusercontent.com/101567902/172843853-e63ccfe5-6185-4442-b086-6e282f514b69.png)
+![image](https://user-images.githubusercontent.com/101567902/172855674-292a2cfc-7eed-4f20-a1c5-4f1cc773000f.png)
 
-![image](https://user-images.githubusercontent.com/101567902/172843945-0b99a3ea-b30a-442e-970d-da078bf4fab6.png)
 
-![image](https://user-images.githubusercontent.com/101567902/172843473-d8ae2545-a38b-4090-91a9-7c8c4eb3f4ce.png)
 
-![image](https://user-images.githubusercontent.com/101567902/172843565-bad42299-bc71-43c8-9bd9-e9be979e8aa4.png)
 
   
