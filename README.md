@@ -1,4 +1,4 @@
-# notes-app
+# Sticky-Notes-app
 <h2> Overview </h2>
 <p>A simple application for writing notes. The interface is designed similar to sticky notes. </p>
 <p>Users can add, edit and delete notes. The notes are stored in browser's local storage so they will not be removed on page refresh.</p>
